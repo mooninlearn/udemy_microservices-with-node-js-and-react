@@ -10,6 +10,9 @@ node_modules
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 
+package-lock.json
+.gitignore
+
 _references/
 _backups/
 _drafts/
